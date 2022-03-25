@@ -1,0 +1,78 @@
+body{
+  background-image: url(file:///Users/martaiachini/Documents/Atom/MaterialeEsercizioLim/background.jpg);
+  background-size: cover;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+/* SFONDO NERO */
+.container{
+width: 566px;
+margin: auto;
+margin-top: 20px;
+padding-right: 170px;
+padding-bottom: 70px;
+padding-left: 170px;
+border-radius: 20px;
+background-color: rgba(0,0,0,0.5);
+}
+
+/* LOGO E INTESTAZIONE */
+.logo{
+  width: 200px;
+  margin-top: 70px;
+  margin-bottom: 5px;
+  margin-left: 200px;
+}
+
+h2{
+  color: #00FF00;
+  text-align: center;
+  margin: 0;
+}
+
+/*  NAV E BUTTONS */
+nav{
+  background-color: #00FF00;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#button1{
+  margin-left: 110px;
+}
+
+/* SCELTA 1 2 3 */
+h3{
+  display: inline;
+}
+
+.coordinate:before {
+  content: "\2023";
+}
+
+hr{
+  height: 20px;
+  border-radius: 5px;
+}
+
+.barra1{
+  background-color: #F4A460;
+  border: 2px solid #F4A460;
+  margin-right: 300px;
+  margin-bottom: 25px;
+}
+
+.barra2{
+  background-color: #32CD32;
+  border: 2px solid #32CD32;
+  margin-right: 100px;
+  margin-bottom: 25px;
+}
+
+.barra3{
+  background-color: #DC143C;
+  border: 2px solid #DC143C;
+  margin-right: 450px;
+}
